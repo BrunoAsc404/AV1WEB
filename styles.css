@@ -7,12 +7,12 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #d3d3d3;  /* Cor de fundo alterada para cinza claro */
+    background-color: #d3d3d3;  
     color: #333;
     padding: 20px;
 }
 
-/* Estilos do header e menu */
+
 header {
     background-color: #333;
     padding: 10px 0;
@@ -38,7 +38,7 @@ nav.menu ul li a:hover {
     text-decoration: underline;
 }
 
-/* Estilos para as páginas */
+
 main {
     max-width: 900px;
     margin: 20px auto;
